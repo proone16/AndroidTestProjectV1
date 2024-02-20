@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidDevOneProject"
 include(":app")
- 
+include(":submoduleTest1")

@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Greeting("Android")
                     // main branch에 push 했을 때 gitHub Action이 실행되는지 확인!!!!! 1
+                    Text(text = "Hello, AndroidDevOneProject!  -- test 1")
                 }
             }
         }
